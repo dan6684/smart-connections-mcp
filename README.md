@@ -106,7 +106,7 @@ smart-connections: .venv/bin/python server.py - ✓ Connected
 Quick migration:
 ```bash
 # On new machine
-git clone <your-repo> ~/smart-connections-mcp
+git clone https://github.com/dan6684/smart-connections-mcp.git ~/smart-connections-mcp
 cd ~/smart-connections-mcp
 ./install.sh
 ```

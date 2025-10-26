@@ -59,7 +59,7 @@
 ```bash
 # On new machine
 cd ~/mcp-servers
-git clone https://github.com/yourusername/smart-connections-mcp.git
+git clone https://github.com/dan6684/smart-connections-mcp.git
 cd smart-connections-mcp
 ```
 
@@ -477,7 +477,7 @@ sed "s/REPLACE_USERNAME/$USERNAME/g" configs/template.json > ~/.mcp.json
 cd ~/
 mkdir -p mcp-servers
 cd mcp-servers
-git clone https://github.com/yourusername/smart-connections-mcp.git
+git clone https://github.com/dan6684/smart-connections-mcp.git
 cd smart-connections-mcp
 
 # 2. Run setup

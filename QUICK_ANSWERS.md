@@ -46,7 +46,7 @@
 
 ```bash
 # 1. Clone MCP server repo
-git clone https://github.com/yourusername/smart-connections-mcp.git ~/mcp-servers/smart-connections-mcp
+git clone https://github.com/dan6684/smart-connections-mcp.git ~/mcp-servers/smart-connections-mcp
 
 # 2. Run installer
 cd ~/mcp-servers/smart-connections-mcp
@@ -270,7 +270,7 @@ The MCP server code is infrastructure - safe to share publicly:
 - 🔒 Any sensitive content
 
 **Example public repos:**
-- https://github.com/yourusername/smart-connections-mcp ← MCP server
+- https://github.com/dan6684/smart-connections-mcp ← MCP server
 - https://github.com/yourusername/my-vault (private) ← Your notes
 
 ---
@@ -293,7 +293,7 @@ The MCP server code is infrastructure - safe to share publicly:
 
 **Migration command:**
 ```bash
-git clone <repo> ~/mcp-servers/smart-connections-mcp && cd ~/mcp-servers/smart-connections-mcp && ./install.sh
+git clone https://github.com/dan6684/smart-connections-mcp.git ~/mcp-servers/smart-connections-mcp && cd ~/mcp-servers/smart-connections-mcp && ./install.sh
 ```
 
 Done! 🎉
